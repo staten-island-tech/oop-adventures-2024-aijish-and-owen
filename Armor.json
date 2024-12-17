@@ -1,0 +1,25 @@
+{
+    "Light Armor": [
+        {"name": "Leather Armor", "type": "Light", "defense": 5, "element": null, "Cost": 10, "Durability": 30, "special_ability": null},
+        {"name": "Studded Leather Armor", "type": "Light", "defense": 8, "element": null, "Cost": 15, "Durability": 40, "special_ability": null},
+        {"name": "Elven Tunic", "type": "Light", "defense": 12, "element": "Nature", "Cost": 25, "Durability": 50, "special_ability": "Nature's Resilience (Heals 5 HP every turn in nature-rich environments)"},
+        {"name": "Wind Cloak", "type": "Light", "defense": 10, "element": "Wind", "Cost": 20, "Durability": 45, "special_ability": "Wind's Embrace (Increases movement speed by 15%)"},
+        {"name": "Frostweave Armor", "type": "Light", "defense": 14, "element": "Ice", "Cost": 30, "Durability": 60, "special_ability": "Chill Aura (Slows enemies within 5 meters by 20%)"}
+    ],
+
+    "Medium Armor": [
+        {"name": "Chainmail Armor", "type": "Medium", "defense": 18, "element": null, "Cost": 35, "Durability": 70, "special_ability": null},
+        {"name": "Barbute Helmet", "type": "Medium", "defense": 20, "element": null, "Cost": 40, "Durability": 80, "special_ability": null},
+        {"name": "Dragonhide Armor", "type": "Medium", "defense": 22, "element": "Fire", "Cost": 50, "Durability": 85, "special_ability": "Flame Shield (Reduces fire damage by 40%)"},
+        {"name": "Shadow Armor", "type": "Medium", "defense": 19, "element": "Shadow", "Cost": 45, "Durability": 75, "special_ability": "Shadowmeld (Grants invisibility for 5 seconds when standing still)"},
+        {"name": "Dwarven Plate", "type": "Medium", "defense": 25, "element": "Earth", "Cost": 60, "Durability": 90, "special_ability": "Stoneform (Increases defense by 20% for 5 seconds after taking damage)"}
+    ],
+
+    "Heavy Armor": [
+        {"name": "Plate Armor", "type": "Heavy", "defense": 35, "element": null, "Cost": 70, "Durability": 100, "special_ability": null},
+        {"name": "Guardian Armor", "type": "Heavy", "defense": 40, "element": null, "Cost": 80, "Durability": 120, "special_ability": null},
+        {"name": "Celestial Plate", "type": "Heavy", "defense": 50, "element": "Light", "Cost": 100, "Durability": 140, "special_ability": "Divine Shield (Reduces all damage by 30% for 3 turns after activation)"},
+        {"name": "Titanium Plate", "type": "Heavy", "defense": 45, "element": "Metal", "Cost": 120, "Durability": 160, "special_ability": "Ironclad (Increases resistance to physical damage by 25%)"},
+        {"name": "Obsidian Armor", "type": "Heavy", "defense": 55, "element": "Fire", "Cost": 130, "Durability": 180, "special_ability": "Molten Armor (Deals 10 Fire damage to attackers on hit)"}
+    ]
+}

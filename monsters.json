@@ -1,0 +1,11 @@
+[
+    {"name": "Minotaur", "health": 105, "damage": 12, "flee_rate": 35},
+    {"name": "Cyclops", "health": 120, "damage": 15, "flee_rate": 50},
+    {"name": "Hydra", "health": 150, "damage": 27, "flee_rate": 20},    
+    {"name": "Empousa", "health": 100, "damage": 7, "flee_rate": 90},
+    {"name": "Drakon", "health": 145, "damage": 25, "flee_rate": 15},
+    {"name": "Nemean Lion", "health": 150, "damage": 23, "flee_rate": 15},    
+    {"name": "Dracaenae", "health": 100, "damage": 7, "flee_rate": 85},
+    {"name": "Hellhound", "health": 85, "damage": 5, "flee_rate": 40},
+    {"name": "Manticore", "health": 150, "damage": 17, "flee_rate": 30}
+]

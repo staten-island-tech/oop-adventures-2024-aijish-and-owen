@@ -1,23 +1,21 @@
-{
-    "Consumables": [
-        {"name": "Health Potion", "type": "Consumable", "effect": "Heals 50 HP", "Cost": 10, "Durability": 1, "special_ability": null},
-        {"name": "Mana Potion", "type": "Consumable", "effect": "Restores 30 Mana", "Cost": 12, "Durability": 1, "special_ability": null},
-        {"name": "Antidote", "type": "Consumable", "effect": "Cures Poison", "Cost": 15, "Durability": 1, "special_ability": null}
-    ],
 
-    "Buffs": [
-        {"name": "Strength Scroll", "type": "Buff", "effect": "Increases Strength by 10 for 3 turns", "Cost": 20, "Durability": 1, "special_ability": "Strength Boost"},
-        {"name": "Agility Scroll", "type": "Buff", "effect": "Increases Agility by 10 for 3 turns", "Cost": 20, "Durability": 1, "special_ability": "Agility Boost"},
-        {"name": "Defense Elixir", "type": "Buff", "effect": "Increases Defense by 15 for 2 turns", "Cost": 30, "Durability": 1, "special_ability": "Defense Boost"},
-        {"name": "Luck Charm", "type": "Buff", "effect": "Increases luck by 20% for 1 hour", "Cost": 25, "Durability": 1, "special_ability": "Increased Luck"},
-        {"name": "Speed Potion", "type": "Buff", "effect": "Increases movement speed by 30% for 2 turns", "Cost": 15, "Durability": 1, "special_ability": "Speed Boost"}
-    ],
-
-    "Artifacts": [
-        {"name": "Ring of Vitality", "type": "Artifact", "effect": "Increases HP by 50", "Cost": 100, "Durability": 1, "special_ability": "Health Boost"},
-        {"name": "Amulet of Wisdom", "type": "Artifact", "effect": "Increases Mana by 30", "Cost": 80, "Durability": 1, "special_ability": "Mana Boost"},
-        {"name": "Cloak of Invisibility", "type": "Artifact", "effect": "Grants invisibility for 5 seconds", "Cost": 150, "Durability": 1, "special_ability": "Invisibility"},
-        {"name": "Crystal of the Elements", "type": "Artifact", "effect": "Grants resistance to all elemental damage", "Cost": 120, "Durability": 1, "special_ability": "Elemental Resistance"},
-        {"name": "Book of Shadows", "type": "Artifact", "effect": "Increases spell power by 15%", "Cost": 110, "Durability": 1, "special_ability": "Spell Power Boost"}
-    ]
-}
+[
+    {
+      "name": "Small Health Potion",
+      "effect": "Heals",
+      "heal_amount": 50,
+      "price": 10
+    },
+    {
+      "name": "Medium Health Potion",
+      "effect": "Heals",
+      "heal_amount": 100,
+      "price": 20
+    },
+    {
+      "name": "Large Health Potion",
+      "effect": "Heals",
+      "heal_amount": 150,
+      "price": 30
+    }
+]

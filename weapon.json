@@ -1,0 +1,260 @@
+[
+  {
+      "name": "Basic Sword",
+      "damage": 5,
+      "price": 8,
+      "durability": 25
+    },
+    {
+      "name": "Basic Axe",
+      "damage": 6,
+      "price": 9,
+      "durability": 20
+    },
+    {
+      "name": "Basic Dagger",
+      "damage": 4,
+      "price": 7,
+      "durability": 15
+    },
+    {
+      "name": "Basic Spear",
+      "damage": 5,
+      "price": 8,
+      "durability": 20
+    },
+    {
+      "name": "Steel Sword",
+      "damage": 12,
+      "price": 15,
+      "durability": 50
+    },
+    {
+      "name": "Steel Axe",
+      "damage": 13,
+      "price": 16,
+      "durability": 45
+    },
+    {
+      "name": "Steel Dagger",
+      "damage": 10,
+      "price": 13,
+      "durability": 40
+    },
+    {
+      "name": "Steel Spear",
+      "damage": 11,
+      "price": 14,
+      "durability": 45
+    },
+    {
+      "name": "Iron Sword",
+      "damage": 18,
+      "price": 25,
+      "durability": 60
+    },
+    {
+      "name": "Iron Axe",
+      "damage": 19,
+      "price": 27,
+      "durability": 55
+    },
+    {
+      "name": "Iron Dagger",
+      "damage": 17,
+      "price": 22,
+      "durability": 50
+    },
+    {
+      "name": "Iron Spear",
+      "damage": 18,
+      "price": 25,
+      "durability": 55
+    },
+    {
+      "name": "Gold Sword",
+      "damage": 24,
+      "price": 35,
+      "durability": 70
+    },
+    {
+      "name": "Gold Axe",
+      "damage": 26,
+      "price": 38,
+      "durability": 65
+    },
+    {
+      "name": "Gold Dagger",
+      "damage": 22,
+      "price": 30,
+      "durability": 60
+    },
+    {
+      "name": "Gold Spear",
+      "damage": 24,
+      "price": 35,
+      "durability": 65
+    },
+    {
+      "name": "Titanium Sword",
+      "damage": 25,
+      "price": 40,
+      "durability": 70
+    },
+    {
+      "name": "Titanium Dagger",
+      "damage": 25,
+      "price": 40,
+      "durability": 70
+    },
+    {
+      "name": "Titanium Axe",
+      "damage": 30,
+      "price": 50,
+      "durability": 80
+    },
+    {
+      "name": "Titanium Spear",
+      "damage": 32,
+      "price": 55,
+      "durability": 85
+    },
+    {
+      "name": "Celestial Sword",
+      "damage": 38,
+      "price": 60,
+      "durability": 90
+    },
+    {
+      "name": "Celestial Axe",
+      "damage": 40,
+      "price": 65,
+      "durability": 95
+    },
+    {
+      "name": "Celestial Dagger",
+      "damage": 30,
+      "price": 45,
+      "durability": 80
+    },
+    {
+      "name": "Celestial Spear",
+      "damage": 42,
+      "price": 70,
+      "durability": 100
+    },
+    {
+      "name": "Dragon Bone Sword",
+      "damage": 60,
+      "price": 100,
+      "durability": 150
+    },
+    {
+      "name": "Dragon Bone Axe",
+      "damage": 65,
+      "price": 110,
+      "durability": 150
+    },
+    {
+      "name": "Dragon Bone Dagger",
+      "damage": 55,
+      "price": 95,
+      "durability": 140
+    },
+    {
+      "name": "Dragon Bone Spear",
+      "damage": 70,
+      "price": 120,
+      "durability": 160
+    },
+    {
+      "name": "Basic Bow",
+      "damage": 6,
+      "price": 10,
+      "durability": 30
+    },
+    {
+      "name": "Basic Crossbow",
+      "damage": 8,
+      "price": 12,
+      "durability": 35
+    },
+    {
+      "name": "Slingshot",
+      "damage": 4,
+      "price": 5,
+      "durability": 15
+    },
+    {
+      "name": "Long Bow",
+      "damage": 28,
+      "price": 40,
+      "durability": 50
+    },
+    {
+      "name": "Heavy Crossbow",
+      "damage": 32,
+      "price": 50,
+      "durability": 60
+    },
+    {
+      "name": "Composite Bow",
+      "damage": 16,
+      "price": 25,
+      "durability": 40
+    },
+    {
+      "name": "Recurve Bow",
+      "damage": 18,
+      "price": 30,
+      "durability": 45
+    },
+    {
+      "name": "Rapid Crossbow",
+      "damage": 24,
+      "price": 40,
+      "durability": 50
+    },
+    {
+      "name": "Magnum Crossbow",
+      "damage": 35,
+      "price": 60,
+      "durability": 70
+    },
+    {
+      "name": "Hunter's Bow",
+      "damage": 30,
+      "price": 50,
+      "durability": 65
+    },
+    {
+      "name": "Heavy Longbow",
+      "damage": 34,
+      "price": 55,
+      "durability": 70
+    },
+    {
+      "name": "Silvered Bow",
+      "damage": 26,
+      "price": 42,
+      "durability": 60
+    },
+    {
+      "name": "Crossbow Pistol",
+      "damage": 20,
+      "price": 40,
+      "durability": 50
+    },
+    {
+      "name": "Dragon Bone Bow",
+      "damage": 50,
+      "price": 100,
+      "durability": 120
+    },
+    {
+      "name": "Dragon Bone Crossbow",
+      "damage": 55,
+      "price": 120,
+      "durability": 130
+    }
+  ]

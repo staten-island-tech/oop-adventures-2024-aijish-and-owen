@@ -1,0 +1,95 @@
+[
+      {
+          "name": "Leather Armor",
+          "protection": 5,
+          "price": 10,
+          "durability": 30
+      },
+      {
+          "name": "Studded Leather Armor",
+          "protection": 8,
+          "price": 15,
+          "durability": 40
+      },
+      {
+          "name": "Elven Tunic",
+          "protection": 12,
+          "element": "Nature",
+          "price": 25,
+          "durability": 50
+      },
+      {
+          "name": "Wind Cloak",
+          "protection": 10,
+          "price": 20,
+          "durability": 45
+      },
+      {
+          "name": "Frostweave Armor",
+          "protection": 14,
+          "price": 30,
+          "durability": 60
+      },
+      
+      {
+          "name": "Chainmail Armor",
+          "protection": 18,
+          "price": 35,
+          "durability": 70
+      },
+      {
+          "name": "Barbute Helmet",
+          "protection": 20,
+          "price": 40,
+          "durability": 80
+      },
+      {
+          "name": "Dragonhide Armor",
+          "protection": 22,
+          "price": 50,
+          "durability": 85
+      },
+      {
+          "name": "Shadow Armor",
+          "protection": 19,
+          "price": 45,
+          "durability": 75
+      },
+      {
+          "name": "Dwarven Plate",
+          "protection": 25,
+          "price": 60,
+          "durability": 90
+      },
+
+      {
+          "name": "Plate Armor",
+          "protection": 35,
+          "price": 70,
+          "durability": 100
+      },
+      {
+          "name": "Guardian Armor",
+          "protection": 40,
+          "price": 80,
+          "durability": 120
+      },
+      {
+          "name": "Celestial Plate",
+          "protection": 50,
+          "price": 100,
+          "durability": 140
+      },
+      {
+          "name": "Titanium Plate",
+          "protection": 45,
+          "price": 120,
+          "durability": 160
+      },
+      {
+          "name": "Obsidian Armor",
+          "protection": 55,
+          "price": 130,
+          "durability": 180
+      }
+]

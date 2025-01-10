@@ -1,0 +1,21 @@
+
+[
+    {
+      "name": "Small Health Potion",
+      "effect": "Heals",
+      "heal_amount": 50,
+      "price": 10
+    },
+    {
+      "name": "Medium Health Potion",
+      "effect": "Heals",
+      "heal_amount": 100,
+      "price": 20
+    },
+    {
+      "name": "Large Health Potion",
+      "effect": "Heals",
+      "heal_amount": 150,
+      "price": 30
+    }
+]
